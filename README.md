@@ -104,4 +104,5 @@ We welcome contributions to improve this project. Please follow these steps:
 
 For any inquiries or feedback, feel free to reach out:
 
+- **Email:** akshitupadhyay1725@gmail.com
 - **GitHub:** [akshitupadhyay17](https://github.com/akshitupadhyay17)
