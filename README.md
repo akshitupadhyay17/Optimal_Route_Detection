@@ -35,8 +35,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/optimal-route-detection.git
-   cd optimal-route-detection
+   git clone https://github.com/akshitupadhyay17/Optimal_Route_Detection.git
+   cd Optimal_Route_Detection
    ```
 
 2. Compile the C++ code:
@@ -68,7 +68,7 @@ Link= https://optimalroutedetectionformetrousers.netlify.app/
 
 ## Future Enhancements
 
-- **Graphical User Interface (GUI):** Develop a frontend using frameworks like JavaFX or integrate a web-based interface using Flask/Django.
+- **Graphical User Interface (GUI):** Develop a frontend using frameworks like Qt or integrate a web-based interface using Vue/React.
 - **Live Updates:** Incorporate real-time data to handle dynamic route updates.
 - **Multi-Language Support:** Add support for multiple languages to cater to a wider audience.
 
@@ -104,5 +104,4 @@ We welcome contributions to improve this project. Please follow these steps:
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email:** asmigarg569@gmail.com
-- **GitHub:** [Asmigarg](https://github.com/Asmigarg)
+- **GitHub:** [akshitupadhyay17](https://github.com/akshitupadhyay17)

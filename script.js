@@ -1,4 +1,4 @@
-// Metro system data (simplified version of the Java code)
+// Metro system data (simplified version of the C++ code)
 const metro = {
     edges: [
         ["Rithala", "Netaji Subhash Place", 5.2],
