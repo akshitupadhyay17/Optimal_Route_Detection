@@ -2,7 +2,7 @@
 
 ## Project Description
 
-**Optimal Route Detection for Metro Users** is a Java-based command-line application designed to assist metro users in finding the shortest route between two stations. The application uses graph and heap data structures and employs Dijkstra's algorithm for efficient route computation. This project is targeted towards enhancing user experience by providing quick and accurate route recommendations.
+**Optimal Route Detection for Metro Users** is a C++-based command-line application designed to assist metro users in finding the shortest route between two stations. The application uses graph and heap data structures and employs Dijkstra's algorithm for efficient route computation. This project is targeted towards enhancing user experience by providing quick and accurate route recommendations.
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Technologies Used
 
-- **Programming Language:** Java
+- **Programming Language:** C++
 - **Data Structures:** Graph, Heap
 - **Algorithm:** Dijkstra's Algorithm
 
@@ -24,7 +24,7 @@
 
 ## Prerequisites
 
-- **Java Development Kit (JDK):** Version 11 or above
+- **C++ Compiler:** GCC, Clang, or MSVC with C++17 support
 - **IDE (Optional):** IntelliJ IDEA, Eclipse, or any text editor
 - **Command Line:** Terminal, Command Prompt, or any CLI tool
 
@@ -39,16 +39,16 @@
    cd optimal-route-detection
    ```
 
-2. Compile the Java code:
+2. Compile the C++ code:
 
    ```bash
-   javac -d bin src/*.java
+   g++ MetroSystem.cpp -std=c++17 -o MetroSystem
    ```
 
 3. Run the program:
 
    ```bash
-   java -cp bin Main
+   ./MetroSystem
    ```
 
 ---
